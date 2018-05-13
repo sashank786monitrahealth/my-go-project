@@ -21,7 +21,7 @@ func checkPrime(n int) bool {
 
 func main(){
     myInput := 37;
-    myString  := "";
+    var myString  string;
 
     if checkPrime(myInput){
         //myString.WriteString("%d",myInput)
