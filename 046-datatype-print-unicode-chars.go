@@ -1,5 +1,7 @@
 package main
 
+/*This program demonstrates rune as an alias of int32 datatype*/
+
 import(
    "fmt";
 )
